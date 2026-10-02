@@ -14,6 +14,6 @@
 3. Extract the ZIP file and open the project in your code editor.
 
 *This project is a part of project*
-[https://bucolic-elf-f0ec0f.netlify.app/]
+[https://lucky-baklava-985ea0.netlify.app]
 
 ![preview img](/preview.png)
